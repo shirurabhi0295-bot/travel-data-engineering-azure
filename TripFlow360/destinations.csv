@@ -1,0 +1,21 @@
+DestinationID,Destination,Country,Region,DestinationType
+D001,Goa,India,Asia,Beach
+D002,Jaipur,India,Asia,Heritage
+D003,Manali,India,Asia,Mountain
+D004,Kerala,India,Asia,Nature
+D005,Dubai,UAE,Middle East,City
+D006,Singapore,Singapore,Asia,City
+D007,Bangkok,Thailand,Asia,City
+D008,Bali,Indonesia,Asia,Beach
+D009,Paris,France,Europe,City
+D010,London,UK,Europe,City
+D011,Tokyo,Japan,Asia,City
+D012,Maldives,Maldives,Asia,Beach
+D013,Srinagar,India,Asia,Mountain
+D014,Udaipur,India,Asia,Heritage
+D015,Rishikesh,India,Asia,Adventure
+D016,Ooty,India,Asia,Nature
+D017,Andaman,India,Asia,Beach
+D018,New York,USA,North America,City
+D019,Rome,Italy,Europe,Heritage
+D020,Sydney,Australia,Oceania,City
