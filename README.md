@@ -1,2 +1,5 @@
-# travel-data-engineering-azure
-End-to-end travel data engineering pipeline using Azure Data Factory, ADLS Gen2, Databricks, PySpark, Synapse Analytics, and Power BI.
+# TripFlow360 — Travel Data Engineering Pipeline
+
+An end-to-end travel data engineering project built using Azure Data Factory,
+Azure Data Lake Storage Gen2, Databricks, PySpark, Azure Synapse Analytics,
+and Power BI.
